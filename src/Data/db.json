@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Relax",
+      "role": "admin",
+      "email": "admin 2@example.com",
+      "phone": "62851"
+    },
+    {
+      "id": 2,
+      "name": "dHOYOG",
+      "email": "dyg@gmail.com",
+      "phone": "09877611",
+      "role": "staf"
+    },
+    {
+      "name": "pgacor",
+      "email": "p@gmail.com",
+      "phone": "121311",
+      "role": "staf",
+      "id": 3
+    }
+  ]
+}
